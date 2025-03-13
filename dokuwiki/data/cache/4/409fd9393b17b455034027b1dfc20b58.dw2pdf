@@ -1,0 +1,31 @@
+<a name="start__"></a>
+<h1><bookmark content=" Start page" level="0" /><a name="start__start_page">Start page</a></h1>
+<div class="level1">
+
+<p>
+On this page we need to put some links for another pages with info.
+</p>
+<hr />
+
+<p>
+To do list:
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="/doku.php?id=passwords" class="wikilink1" title="passwords" data-wiki-id="passwords">🔐 Passwords page</a></div>
+</li>
+<li class="level1"><div class="li"> Manuals tree page</div>
+</li>
+<li class="level1"><div class="li"> Maybe page for upload manual to server</div>
+</li>
+<li class="level1"><div class="li"> <a href="/doku.php?id=machinelist" class="wikilink1" title="machinelist" data-wiki-id="machinelist">Machine list (by Customer)</a></div>
+</li>
+<li class="level1"><div class="li"> Local stock list (Ichilov, Rambmam maybe)</div>
+</li>
+</ul>
+<hr />
+<!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_start&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:1,&quot;range&quot;:&quot;0-&quot;} --><div class="wrap_left wrap_round wrap_tip plugin_wrap" style="width: 20%;">
+<p>
+Some cool stuf
+</p>
+</div><!-- EDIT{&quot;target&quot;:&quot;plugin_wrap_end&quot;,&quot;hid&quot;:&quot;&quot;,&quot;secid&quot;:2,&quot;range&quot;:&quot;0-&quot;} -->
+</div>

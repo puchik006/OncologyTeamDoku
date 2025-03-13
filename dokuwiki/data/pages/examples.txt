@@ -1,0 +1,22 @@
+====== Usefull examples ======
+Here you add/see and check how to use some plugins and syntax of it
+
+===== Orgchart without photo =====
+<WRAP orgchart>
+^Name           ^Line Manager   ^
+|Alice Baker    |Bob Smith      |
+|Bob Smith      |Carol Davidson |
+|Carol Davidson |               |
+|Dave Miller    |Carol Davidson |
+|Eric Taylor    |Bob Smith      |
+</WRAP>
+
+===== Orgchart with photo =====
+<WRAP orgchart>
+^Name           ^Line Manager   ^Job Title          ^Photo                   ^
+|Alice Baker    |Bob Smith      |PR                 |{{:staff:alice.png?60}} |
+|Bob Smith      |Carol Davidson |Marketing Director |{{:staff:bob.jpg?60}}   |
+|Carol Davidson |               |CEO                |{{:staff:carol.jpg?60}} |
+|Dave Miller    |Carol Davidson |Secretary          |{{:staff:dave.jpg?60}}  |
+|Eric Taylor    |Bob Smith      |                   |                        |
+</WRAP>

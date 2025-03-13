@@ -1,0 +1,27 @@
+====== 🏥 Machine List (By Customer) ======
+
+=== 🏥 Rambam Medical Center ===
+==== 🖥️ Linacs ====
+  * [[Linac_A|Linac A]] (Elekta)
+  * [[Linac_B|Linac B]] (Elekta Versa HD)
+  * [[Linac_C|Linac C]] (Elekta)
+  * [[Linac_D|Linac D]] (Elekta Infinity)
+
+==== ☢️ Afterloaders ====
+  * [[Microselectron_Rambam|Microselectron]] (HDR Brachy)
+
+----
+
+=== 🏥 Sourasky (Ichilov) ===
+==== 🖥️ Linacs ====
+  * [[Unity_Ichilov|Unity]] (MRI-Guided LINAC)
+
+----
+
+=== 🏥 Soroka ===
+==== 🖥️ Linacs ====
+  * [[Linac_NewSoroka|Linac New]] (2022)
+  * [[Linac_OldSoroka|Linac Old]] (2015)
+
+==== ☢️ Afterloaders ====
+  * [[Flexitron_Soroka|Flexitron]] (Adaptive Brachy)

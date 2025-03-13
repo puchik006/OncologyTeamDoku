@@ -1,0 +1,17 @@
+1741867844	::1	C	start	root	created		364
+1741867874	::1	C	passwords	root	created		1173
+1741867918	::1	C	machinelist	root	created		827
+1741867939	::1	C	unity_ichilov	root	created		278
+1741867987	::1	E	unity_ichilov	root			-156
+1741868028	::1	C	sidebar	root	created		81
+1741868151	::1	E	machinelist	root			-4
+1741868181	::1	E	machinelist	root			0
+1741868190	::1	E	machinelist	root			-149
+1741868743	::1	E	unity_ichilov	root			375
+1741868764	::1	E	unity_ichilov	root			230
+1741868905	::1	C	examples	root	created		893
+1741868934	::1	E	sidebar	root			-1
+1741868961	::1	D	unity_ichilov	root	removed		-727
+1741869069	::1	E	machinelist	root			124
+1741869078	::1	E	machinelist	root			-3
+1741869086	::1	E	machinelist	root			-121

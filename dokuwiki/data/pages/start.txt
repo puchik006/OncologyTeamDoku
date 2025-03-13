@@ -1,0 +1,17 @@
+====== Start page ======
+On this page we need to put some links for another pages with info.
+
+----
+
+To do list:
+  * [[passwords|🔐 Passwords page]]
+  * Manuals tree page
+  * Maybe page for upload manual to server
+  * [[machinelist|Machine list (by Customer)]]
+  * Local stock list (Ichilov, Rambmam maybe)
+
+----
+
+<WRAP left round tip 20%>
+Some cool stuf
+</WRAP>

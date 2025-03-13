@@ -1,0 +1,26 @@
+[Thu Mar 13 13:06:31.466399 2025] [mpm_winnt:notice] [pid 11132:tid 464] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 13:06:31.467327 2025] [mpm_winnt:notice] [pid 11132:tid 464] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 13:06:31.467327 2025] [core:notice] [pid 11132:tid 464] AH00094: Command line: 'mapache.exe -d C:/Users/pavelb/Desktop/DokuWikiStick/server'
+[Thu Mar 13 13:06:31.479865 2025] [mpm_winnt:notice] [pid 11132:tid 464] AH00418: Parent: Created child process 15548
+[Thu Mar 13 13:06:32.336721 2025] [mpm_winnt:notice] [pid 15548:tid 456] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 13:06:33.120326 2025] [authz_core:error] [pid 15548:tid 848] [client 127.0.0.1:58592] AH01630: client denied by server configuration: C:/Users/pavelb/Desktop/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Thu Mar 13 13:08:07.054223 2025] [authz_core:error] [pid 15548:tid 848] [client ::1:58620] AH01630: client denied by server configuration: C:/Users/pavelb/Desktop/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Thu Mar 13 13:46:27.625838 2025] [core:warn] [pid 3180:tid 452] AH00098: pid file C:/Users/pavelb/Desktop/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 13 13:46:27.886489 2025] [mpm_winnt:notice] [pid 3180:tid 452] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 13:46:27.887511 2025] [mpm_winnt:notice] [pid 3180:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 13:46:27.887511 2025] [core:notice] [pid 3180:tid 452] AH00094: Command line: 'mapache.exe -d C:/Users/pavelb/Desktop/DokuWikiStick/server'
+[Thu Mar 13 13:46:27.897936 2025] [mpm_winnt:notice] [pid 3180:tid 452] AH00418: Parent: Created child process 11996
+[Thu Mar 13 13:46:28.805137 2025] [mpm_winnt:notice] [pid 11996:tid 460] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 13:47:00.417377 2025] [core:warn] [pid 11396:tid 452] AH00098: pid file C:/Users/pavelb/Desktop/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 13 13:47:00.660505 2025] [mpm_winnt:notice] [pid 11396:tid 452] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 13:47:00.660505 2025] [mpm_winnt:notice] [pid 11396:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 13:47:00.660505 2025] [core:notice] [pid 11396:tid 452] AH00094: Command line: 'mapache.exe -d C:/Users/pavelb/Desktop/DokuWikiStick/server'
+[Thu Mar 13 13:47:00.672747 2025] [mpm_winnt:notice] [pid 11396:tid 452] AH00418: Parent: Created child process 2492
+[Thu Mar 13 13:47:01.527660 2025] [mpm_winnt:notice] [pid 2492:tid 456] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 14:10:25.057369 2025] [core:warn] [pid 6600:tid 452] AH00098: pid file C:/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 13 14:10:25.600507 2025] [mpm_winnt:notice] [pid 6600:tid 452] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Mar 13 14:10:25.600507 2025] [mpm_winnt:notice] [pid 6600:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Mar 13 14:10:25.600507 2025] [core:notice] [pid 6600:tid 452] AH00094: Command line: 'mapache.exe -d C:/DokuWikiStick/server'
+[Thu Mar 13 14:10:25.612709 2025] [mpm_winnt:notice] [pid 6600:tid 452] AH00418: Parent: Created child process 15412
+[Thu Mar 13 14:10:26.443902 2025] [mpm_winnt:notice] [pid 15412:tid 460] AH00354: Child: Starting 24 worker threads.
+[Thu Mar 13 14:13:16.905454 2025] [authz_core:error] [pid 15412:tid 844] [client ::1:56476] AH01630: client denied by server configuration: C:/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=start&do=admin
